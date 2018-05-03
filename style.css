@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    background-color: blue;
+    color: pink;
+    padding: 1px;
+}
+button{
+    padding: 1px;
+    color: pink;
+    background-color: red;
+    border: solid 1px color black;
+    
+}
